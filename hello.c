@@ -1,5 +1,5 @@
 /**
- * Author: Chris Bourke
+ * Author: Chris Bourke, Luke Downs
  * Date: 2016/11/02
  *
  * A simple hello world program in C
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Leo, Computer Engineering\n");
+  printf("Leo, Computer Engineering, Luke Computer Science\n");
 
   return 0;
 }
